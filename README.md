@@ -23,3 +23,8 @@ Necesito tres ***asteriscos para que estén en negrita y cursiva a la vez.***
 #Insertamos una imagen
 
 ![](images/imagenLIDE.png){width="150"}
+
+La página web de New Dimensions es <https://newdimensions.academy/>\
+Tambien puedes ingresar haciendo clic [aquí](https://newdimensions.academy/)
+
+
